@@ -71,5 +71,5 @@ By combining SQL analysis with Excel, Tableau, and Power BI dashboards, the proj
 
 **Tools:** MySQL | MS Excel | Tableau | Power BI
 
- 1. Excel Dashboard
-![Excel Dashboard]()
+ 1. Tableau Dashboard Screenshort
+![Tableau Dashboard](https://github.com/gagananalytics/Bank-loan-analysis/blob/main/Screenshort%20Bank%20Loan%20Analysis%20Tableau%20dashboard.jpeg)
